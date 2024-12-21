@@ -1,0 +1,9 @@
+The game goes this way:
+
+In your inventory,
+You have 10 Pepper Pellets, which add from 75 to 100 attack points to your current ones.
+You have NUFFIN' (codename The Yoinker), which was supposed to make the enemy slip on a banana or something but idk the "developer" got tired
+You have 2 Candy Canes, which give you 500 Health points.
+
+Press the first button to attack your opponent, or the Pass button to back down.
+If PASSED, the enemy has a higher chance to miss or slip and hurt themselves.
